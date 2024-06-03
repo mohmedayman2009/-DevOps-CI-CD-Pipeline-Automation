@@ -36,7 +36,7 @@ The project is organized as follows:
 - `Docker/`: Contain Dockerfiles.
 - `ansible/`: Contains Ansible playbooks for automating various tasks.
 - `kubernetes/`: Contains Kubernetes configuration files for deploying the application and its services.
-- `docs/`: Contains steps and documentations and setup guides.
+- `docs/`: Contains documentations and setup guides.
 
 ## Usage
 After setting up the CI/CD pipeline, you can automate the build, test, and deployment processes for your Java applications. The pipeline facilitates continuous integration and deployment, ensuring a smooth and efficient development workflow.
