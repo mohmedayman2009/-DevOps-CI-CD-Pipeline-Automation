@@ -41,9 +41,3 @@ The project is organized as follows:
 ## Usage
 After setting up the CI/CD pipeline, you can automate the build, test, and deployment processes for your Java applications. The pipeline facilitates continuous integration and deployment, ensuring a smooth and efficient development workflow.
 
-
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
-
